@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Akarin, a amateur Java Developer.
+I'm Akarin, an amateur Java Developer.
 
 ### Contact
 
